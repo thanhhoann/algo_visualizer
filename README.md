@@ -1,6 +1,6 @@
 # Data Structures
-1. Array 
-## 1-D
+## Array 
+### 1-D
 - [ ] Search a given node
 - [ ] Modify the value of node at a given index
 - [ ] Traverse the array
@@ -8,7 +8,7 @@
 - [ ] Remove a node from the end
 - [ ] Add a node to the beginning
 - [ ] Remove a node from the beginning
-## 2-D
+### 2-D
 - [ ] Search a given node
 - [ ] Modify the value of node at a given index
 - [ ] Traverse the array
@@ -19,9 +19,9 @@
 - [ ] Flatten/Half the array
 - [ ] Add a row/column
 - [ ] Remove a row/column
-- [ ]  Matrix Multiplication
-- [ ]  Transposing (swapping rows and columns)
-- [ ]  Slicing & Dicing
-- [ ]  Summing rows/columns
+- [ ] ✨ Matrix Multiplication
+- [ ] ✨ Transposing (swapping rows and columns)
+- [ ] ✨ Slicing & Dicing
+- [ ] ✨ Summing rows/columns
 
 # Algorithms
